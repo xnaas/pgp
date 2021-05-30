@@ -2,7 +2,9 @@ This is my PGP public key.
 
 ID: `409B6A977274BA57`
 
-Generated: 2020-12-17
+Subkeys: `D963350A680C4015`, `691A25993B26FC91`
+
+Key Generated: 2020-12-17
 
 Also available at:
 * [sourcehut](https://meta.sr.ht/~xnaas.pgp) ([archive.org](https://web.archive.org/web/20210215052737/https://meta.sr.ht/~xnaas.pgp))
